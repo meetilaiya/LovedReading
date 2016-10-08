@@ -2,16 +2,22 @@
     {
         "url": "https://rawgit.com/meetilaiya/LovedReading/master/Posts/2016/10/01/WhatsAppStatus_Part1.json",
         "image":"images/folder.png",
+        "thumbnail":"images/folder.png",
         "category":"status",
         "heading":"Best WhatsApp Status - Part1",
-        "description":"Best WhatsApp Status - Part1"
+        "description":"Best WhatsApp Status - Part1",
+        "tags":"status,whatsapp",
+        "date":"01/10/2016"
     },
     {
-        "url": "2",
-        "image":"2",
-        "category":"2",
-        "heading":"2",
-        "description":"2"
+        "url": "https://rawgit.com/meetilaiya/LovedReading/master/Posts/2016/10/08/Intresting_SmartPhone_Hack_Part1.json",
+        "image":"images/folder.png",
+        "thumbnail":"images/folder.png",
+        "category":"mobile",
+        "heading":"Intresting Smartphone Hack",
+        "description":"Intresting Smartphone Hack",
+        "tags":"smartphone,mobile,hack".
+        "date":"08/10/2016"
     }
     
 ]
