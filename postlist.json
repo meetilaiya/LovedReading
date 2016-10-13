@@ -1,5 +1,15 @@
 [
     {
+        "url": "https://rawgit.com/meetilaiya/LovedReading/master/Posts/2016/10/13/Tips_and_tricks_to_increase_concentration.json",
+        "image":"",
+        "thumbnail":"https://qph.ec.quoracdn.net/main-qimg-aa5613cdcb2bd209c52b29b9616438a5-c?convert_to_webp=true",
+        "category":"Concentration",
+        "heading":"Tips and tricks to increase concentration ",
+        "description":"Tips and tricks to increase concentration ",
+        "tags":"Concentration",
+        "date":"13/10/2016"
+    },
+    {
         "url": "https://rawgit.com/meetilaiya/LovedReading/master/Posts/2016/10/01/WhatsAppStatus_Part1.json",
         "image":"",
         "thumbnail":"",
@@ -28,36 +38,6 @@
         "description":"1INR = 1USD",
         "tags":"Money,INR,Dollar",
         "date":"10/10/2016"
-    },
-    {
-        "url": "https://rawgit.com/meetilaiya/LovedReading/master/Posts/2016/10/01/WhatsAppStatus_Part1.json",
-        "image":"",
-        "thumbnail":"",
-        "category":"status",
-        "heading":"3 Best WhatsApp Status - Part1",
-        "description":"Best WhatsApp Status - Part1",
-        "tags":"status,whatsapp",
-        "date":"01/10/2016"
-    },
-    {
-        "url": "https://rawgit.com/meetilaiya/LovedReading/master/Posts/2016/10/01/WhatsAppStatus_Part1.json",
-        "image":"",
-        "thumbnail":"",
-        "category":"status",
-        "heading":"4 Best WhatsApp Status - Part1",
-        "description":"Best WhatsApp Status - Part1",
-        "tags":"status,whatsapp",
-        "date":"01/10/2016"
-    },
-    {
-        "url": "https://rawgit.com/meetilaiya/LovedReading/master/Posts/2016/10/01/WhatsAppStatus_Part1.json",
-        "image":"",
-        "thumbnail":"",
-        "category":"status",
-        "heading":"5 Best WhatsApp Status - Part1",
-        "description":"Best WhatsApp Status - Part1",
-        "tags":"status,whatsapp",
-        "date":"01/10/2016"
     }
     
 ]
