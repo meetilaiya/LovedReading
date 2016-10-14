@@ -1,5 +1,16 @@
 [
     {
+        "url": "https://rawgit.com/meetilaiya/LovedReading/master/Posts/2016/10/15/Love_Proposal.json",
+        "image":"",
+        "thumbnail":"https://rawgit.com/meetilaiya/LovedReading/master/Images/newpost.png",
+        "category":"Love",
+        "listheading":"Love Proposal",
+        "heading":"Long Proposal To My Lovely Girl",
+        "description":"Long Proposal To My Lovely Girl",
+        "tags":"Love,Propose",
+        "date":"15/10/2016"
+    },
+    {
         "url": "https://rawgit.com/meetilaiya/LovedReading/master/Posts/2016/10/14/Never_Do_In_Life.json",
         "image":"",
         "thumbnail":"https://rawgit.com/meetilaiya/LovedReading/master/Images/newpost.png",
@@ -7,7 +18,7 @@
         "listheading":"Never Do's",
         "heading":"Never do these things in your life ",
         "description":"Never do these things in your life ",
-        "tags":"live,advice",
+        "tags":"Life,Advice",
         "date":"14/10/2016"
     },
     {
