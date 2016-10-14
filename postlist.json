@@ -1,4 +1,16 @@
 [
+     {
+        "id":"8",
+        "url": "https://rawgit.com/meetilaiya/LovedReading/master/Posts/2016/10/17/Bitter_Truth_Of_Life.json",
+        "image":"",
+        "thumbnail":"https://rawgit.com/meetilaiya/LovedReading/master/Images/newpost.png",
+        "category":"Life",
+        "listheading":"Life's Bitter Truth",
+        "heading":"Bitter Truth Of Life",
+        "description":"Bitter Truth Of Life",
+        "tags":"Life",
+        "date":"17/10/2016"
+    },
     {
         "id":"7",
         "url": "https://rawgit.com/meetilaiya/LovedReading/master/Posts/2016/10/16/What_You_Think_And_Say.json",
