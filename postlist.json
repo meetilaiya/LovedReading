@@ -1,5 +1,29 @@
 [
      {
+        "id":"14",
+        "url": "https://rawgit.com/meetilaiya/LovedReading/master/Posts/2016/10/21/Increase_Concentration_Power.json",
+        "image":"",
+        "thumbnail":"https://rawgit.com/meetilaiya/LovedReading/master/Images/newpost.png",
+        "category":"Concentration",
+        "listheading":"How to Concentrate?",
+        "heading":"How To Increate Concentration Power",
+        "description":"You can do in simple step",
+        "tags":"Concentrate,Simple",
+        "date":"21/10/2016"
+    },
+     {
+        "id":"13",
+        "url": "https://rawgit.com/meetilaiya/LovedReading/master/Posts/2016/10/20/General_Category_In_India.json",
+        "image":"",
+        "thumbnail":"https://rawgit.com/meetilaiya/LovedReading/master/Images/newpost.png",
+        "category":"India",
+        "listheading":"General Category",
+        "heading":"General Category In India",
+        "description":"In INDIA",
+        "tags":"India,Caste,General,Reservation",
+        "date":"20/10/2016"
+    },
+     {
         "id":"12",
         "url": "https://rawgit.com/meetilaiya/LovedReading/master/Posts/2016/10/19/All_Brides_Must_Know.json",
         "image":"",
@@ -7,7 +31,7 @@
         "category":"Marriage",
         "listheading":"Brides Must Know",
         "heading":"Brides Must Know",
-        "description":"When Mom is happy, everyone is happy",
+        "description":"Brides Must Know",
         "tags":"Life,Wife,Marriage,Advice",
         "date":"18/10/2016"
     },
